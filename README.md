@@ -4,6 +4,7 @@
 <h2>Description</h2>
 This project consists of designing and implementing a secure network topology. View the PDF File under the file section with screenshots. 
 <br />
+
 -[Screenshots and step by step process](https://github.com/SulliZ/Secure-Network-Topology-Design/blob/main/ZadranSaliman_Designing_a_Secure_Network_Topology_3e.pdf)
 
 
